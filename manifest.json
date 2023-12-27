@@ -1,0 +1,10 @@
+{
+    "name": "JMoneyModPack",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/TheJMoneyMaker/JMoneyModPack",
+    "description": "This is a mod pack for JMoney and his discord people",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "HolographicWings-LethalExpansion-1.3.6"
+      ]
+}
